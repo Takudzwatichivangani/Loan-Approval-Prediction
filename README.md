@@ -45,7 +45,7 @@ We have implemented three machine learning techniques which are;
 
 Logistic Regression has proven to be the best machine learning
 technique in this project. The accuracy score is about 78% and on both Logistic and the RandomForest Classifier. 
-Lastly the Gausssian model with 76% accuracy.
+Lastly the Gausssian model with 77% accuracy.
 
 So in conclusion we used the Logistic Regression Model to to build an automated
 Loan Approval Prediction System.
